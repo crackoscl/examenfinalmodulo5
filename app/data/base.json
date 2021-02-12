@@ -1,0 +1,30 @@
+{
+    "ultimo_id": 42,
+    "pacientes": [
+        {
+            "nombre": "jose",
+            "correo": "jose@gmail.com",
+            "clave": "123456",
+            "rut": "14485975-5",
+            "edad": 30,
+            "fecha": "2020-12-05",
+            "direccion": "las carmelitas valpo",
+            "ocupacion": "redes y python master",
+            "telefono": "+5698406646",
+            "resumen": "da igual es es una prueba ojala no cage",
+            "educacion": "liceo siowqjsowqjsowqj",
+            "historial": "cago la cuchara",
+            "examenes": [
+                {
+                    "fecha": "1947-01-01",
+                    "hemograma": "560",
+                    "orina": "429",
+                    "colesterolhdl": "460",
+                    "colesterolldl": "10000",
+                    "glucosa": "110"
+                }
+            ],
+            "id": 42
+        }
+    ]
+}
